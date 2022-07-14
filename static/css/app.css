@@ -1,0 +1,30 @@
+#main
+{
+  border: 1px solid black;
+  width: 250px;
+  margin: auto;
+  margin-top: 50px;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.textInput
+{
+  width: 97%;
+}
+.ui
+{
+  margin: 5px;
+}
+.bu
+{
+  color: white;
+  background-color: black;
+  padding: 5px;
+  width: 46%;
+  margin-left: 5px;
+
+}
